@@ -1,0 +1,7 @@
+{
+  "name": "delete-r2-objects",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.712.0"
+  }
+}
